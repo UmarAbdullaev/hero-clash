@@ -1,0 +1,5 @@
+Assets used for development
+
+Characters pack - https://kaylousberg.itch.io/kaykit-adventurers
+Skeletons pack - https://kaylousberg.itch.io/kaykit-skeletons
+Toony Colors Pro 2 - https://assetstore.unity.com/packages/vfx/shaders/toony-colors-pro-2-8105
